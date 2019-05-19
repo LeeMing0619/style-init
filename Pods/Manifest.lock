@@ -1,0 +1,44 @@
+PODS:
+  - FSPagerView (0.8.1)
+  - Hero (1.4.0)
+  - Kingfisher (4.10.1)
+  - SwifterSwift (4.6.0):
+    - SwifterSwift/AppKit (= 4.6.0)
+    - SwifterSwift/CoreGraphics (= 4.6.0)
+    - SwifterSwift/CoreLocation (= 4.6.0)
+    - SwifterSwift/Foundation (= 4.6.0)
+    - SwifterSwift/MapKit (= 4.6.0)
+    - SwifterSwift/SpriteKit (= 4.6.0)
+    - SwifterSwift/SwiftStdlib (= 4.6.0)
+    - SwifterSwift/UIKit (= 4.6.0)
+  - SwifterSwift/AppKit (4.6.0)
+  - SwifterSwift/CoreGraphics (4.6.0)
+  - SwifterSwift/CoreLocation (4.6.0)
+  - SwifterSwift/Foundation (4.6.0)
+  - SwifterSwift/MapKit (4.6.0)
+  - SwifterSwift/SpriteKit (4.6.0)
+  - SwifterSwift/SwiftStdlib (4.6.0)
+  - SwifterSwift/UIKit (4.6.0)
+
+DEPENDENCIES:
+  - FSPagerView
+  - Hero
+  - Kingfisher
+  - SwifterSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FSPagerView
+    - Hero
+    - Kingfisher
+    - SwifterSwift
+
+SPEC CHECKSUMS:
+  FSPagerView: 4e865526acc0b0e3077e2abb29b8d10a9f395476
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  SwifterSwift: 812ffec6f301922f5430e75be3f2939ea3a80024
+
+PODFILE CHECKSUM: a18adf7a654b14acabe8d911eb5cee68094e454b
+
+COCOAPODS: 1.5.2
